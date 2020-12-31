@@ -1,0 +1,10 @@
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.Card {
+  width: 18rem;
+  color: white;
+  margin-bottom: 4rem;
+  height: 10rem;
+}
